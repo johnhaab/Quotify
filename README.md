@@ -21,7 +21,7 @@
     your favorite quotes with the world.
     <br />
     <br />
-    <a href="https://github.com/johnhaab/Quotify">View Demo</a>
+    <a href="https://johnhaab.github.io/Quotify/">View Demo</a>
     ·
     <a href="https://github.com/johnhaab/Quotify">Report Bug</a>
     ·
