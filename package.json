@@ -1,0 +1,13 @@
+{
+  "name": "qoute-generator-2.0",
+  "version": "1.0.0",
+  "description": "A simple web based Quote generator called \"Quotify\".",
+  "main": "index.html",
+  "scripts": {
+    "build": "sass assets/css/input.scss assets/css/output.css",
+    "dev": "sass --watch assets/css/input.scss assets/css/output.css"
+  },
+  "author": "John Haab",
+  "license": "ISC",
+  "type": "module"
+}
